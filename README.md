@@ -13,7 +13,6 @@ L'automatique constitue le cœur du projet. Elle est chargée de la modélisatio
 - Concevoir des lois de commande répondant à **deux cahiers des charges distincts**.
 - Implémenter ces lois sur un simulateur et un système réel.
 - Comparer les performances obtenues pour chaque solution proposée.
-- 
 ---
 
 ## 📄 Cahiers des charges
